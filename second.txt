@@ -3,3 +3,5 @@ Added a new first line.
 Here is my second file.
 It has some different text.
 Don't you like my lines of text.
+
+Adding a new line at the end.
